@@ -11,7 +11,7 @@ function Doctors() {
     <div className="doctor-section" id="doctors">
       <div className="dt-title-content">
         <h3 className="dt-title">
-          <span>Meet Our Doctors</span>
+          <span>Meet Our Team</span>
         </h3>
 
         <p className="dt-description">
@@ -32,15 +32,15 @@ function Doctors() {
         />
         <DoctorCard
           img={profile2}
-          name="Dr. Jacob Jones"
-          title="Hematologists"
+          name="Ntwali Dennis"
+          title="content creator"
           stars="4.8"
           reviews="700"
         />
         <DoctorCard
           img={profile3}
-          name="Dr. Jenny Wilson"
-          title="Endocrinologists"
+          name="Mukunzi Ndahiro James"
+          title="software engineer"
           stars="4.7"
           reviews="450"
         />
@@ -50,6 +50,20 @@ function Doctors() {
           title="Hematologists"
           stars="4.8"
           reviews="500"
+        />
+          <DoctorCard
+          img={profile1}
+          name="Dr. Kathryn Murphy"
+          title="General Surgeons"
+          stars="4.9"
+          reviews="1800"
+        />
+          <DoctorCard
+          img={profile1}
+          name="Dr. Kathryn Murphy"
+          title="General Surgeons"
+          stars="4.9"
+          reviews="1800"
         />
       </div>
     </div>
