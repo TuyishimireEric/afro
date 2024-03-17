@@ -14,7 +14,7 @@ function SubscribeNewsletter() {
   const handleBookAppointmentClick = () => {
     if (!isButtonDisabled) {
       emailRegex.test(inputEmail)
-        ? toast.success("Subscribed to Newsletter !", {
+        ? toast.success("Subscribed to our website!", {
             position: toast.POSITION.TOP_CENTER,
             onOpen: () => {
               setIsButtonDisabled(true);
