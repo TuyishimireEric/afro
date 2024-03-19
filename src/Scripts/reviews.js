@@ -7,12 +7,12 @@ export const customerReviews = [
     {
       "name": "John Doe",
       "location": "California, USA",
-      "message": "I found the perfect specialist for my condition through Health Plus. The personalized treatment plan made all the difference. Thank you for prioritizing my health!"
+      "message": "I found the perfect specialist for my condition through Health Plus.  personalized treatment plan made all the difference. Thank you for prioritizing my health!"
     },
     {
       "name": "Alice Smith",
       "location": "New York, USA",
-      "message": "Booking appointments was a breeze, and the service exceeded my expectations. The doctors truly listen and provide effective solutions. 5 stars!"
+      "message": "Booking appointments was  breeze, and the service exceeded my expectations. The doctors truly listen and provide effective solutions. 5 stars!"
     },
     {
       "name": "Bob Johnson",
