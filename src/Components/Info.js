@@ -11,22 +11,15 @@ function Info() {
           <span>What We Do</span>
         </h3>
         <p className="info-description">
-          We bring healthcare to your convenience, offering a comprehensive
-          range of on-demand medical services tailored to your needs. Our
-          platform allows you to connect with experienced online doctors who
-          provide expert medical advice, issue online prescriptions, and offer
-          quick refills whenever you require them.
+        We're educators, advocates, and a bridge connecting youth to the resources they need to thrive. 
+        Through this website, you'll discover:
         </p>
       </div>
 
       <div className="info-cards-content">
         <InformationCard
           title="Emergency Care"
-          description="Our Emergency Care service is designed to be your reliable support
-            in critical situations. Whether it's a sudden illness, injury, or
-            any medical concern that requires immediate attention, our team of
-            dedicated healthcare professionals is available 24/7 to provide
-            prompt and efficient care."
+          description="Afro-Synergy, we prioritize cultural competence in our mental health services. Our approach recognizes and respects the diverse cultural backgrounds of our clients, ensuring that our interventions are sensitive to their beliefs, values, and traditions. By fostering cultural understanding and adapting our treatments accordingly, we strive to provide inclusive and effective care for all individuals"
           icon={faTruckMedical}
         />
 

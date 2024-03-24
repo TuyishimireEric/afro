@@ -7,10 +7,11 @@ import BookAppointment from "../Components/BookAppointment";
 import Reviews from "../Components/Reviews";
 import Doctors from "../Components/Doctors";
 import Footer from "../Components/Footer";
+// import Challenge from "../Components/Challenge";
 
 function Home() {
   return (
-    <div className="home-section">
+    <div className="home-section "  style={{ backgroundColor: "rgb(239,231,221)" }}>
       <Navbar />
       <Hero />
       <Info />
@@ -18,6 +19,7 @@ function Home() {
       <BookAppointment />
       <Reviews />
       <Doctors />
+      {/* <Challenge /> */}
       <Footer />
     </div>
   );

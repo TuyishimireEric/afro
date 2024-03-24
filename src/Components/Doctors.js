@@ -1,9 +1,11 @@
 import React from "react";
 import DoctorCard from "./DoctorCard";
-import profile1 from "../Assets/profile-1.png";
-import profile2 from "../Assets/profile-2.png";
-import profile3 from "../Assets/profile-3.png";
-import profile4 from "../Assets/profile-4.png";
+import denis from "../Assets/dennisss.png"
+import tracy from "../Assets/tracyx.png"
+import lilala from "../Assets/lilalare.png"
+import james from  "../Assets/james.png"
+import mac from "../Assets/mac.png"
+import paula from "../Assets/paulass.png"
 import "../Styles/Doctors.css";
 
 function Doctors() {
@@ -24,46 +26,46 @@ function Doctors() {
 
       <div className="dt-cards-content">
         <DoctorCard
-          img={profile1}
+          img={paula}
           name="Paula Glory"
           title="General Surgeons"
           stars="4.9"
-          reviews="1800"
+          reviews="12"
         />
         <DoctorCard
-          img={profile2}
+          img={denis}
           name="Ntwali Dennis"
           title="content creator"
           stars="4.8"
-          reviews="700"
+          reviews="7"
         />
         <DoctorCard
-          img={profile3}
+          img={james}
           name="Mukunzi Ndahiro James"
           title="software engineer"
           stars="4.7"
-          reviews="450"
+          reviews="4"
         />
         <DoctorCard
-          img={profile4}
+          img={tracy}
           name="Tracy Brown"
           title="Hematologists"
           stars="4.8"
-          reviews="500"
+          reviews="5"
         />
           <DoctorCard
-          img={profile1}
+          img={mac}
           name="Mac Arthur Rutagengwa"
           title="General Surgeons"
           stars="4.9"
-          reviews="1800"
+          reviews="18"
         />
           <DoctorCard
-          img={profile1}
+          img={lilala}
           name="Lilala Runiga Jemima"
           title="General Surgeons"
           stars="4.9"
-          reviews="1800"
+          reviews="18"
         />
       </div>
     </div>

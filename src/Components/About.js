@@ -15,27 +15,23 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
-          personalized healthcare. Our expert doctors offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
-          this journey towards a healthier you.
+        Afro-Synergy is a think tank, but we're more than just ideas. We're educators, advocates, and a bridge connecting youth to the resources they need to thrive. Through this website, you'll discover:
         </p>
 
-        <h4 className="about-text-title">Your Solutions</h4>
 
         <SolutionStep
-          title="Choose a Specialist"
-          description="Find your perfect specialist and book with ease at Health Plus. Expert doctors prioritize your health, offering tailored care."
+          title="Our mission"
+          description="to empower young people with knowledge and dismantle the stigma surrounding mental health.."
         />
 
         <SolutionStep
-          title="Make a Schedule"
-          description="Choose the date and time that suits you best, and let our dedicated team of medical professionals ensure your well-being with personalized care."
+          title="Our journey"
+          description=" how Afro-Synergy came to be and the challenges we've overcome."
         />
 
         <SolutionStep
-          title="Get Your Solutions"
-          description="Our experienced doctors and specialists are here to provide expert advice and personalized treatment plans, helping you achieve your best possible health."
+          title="How we tackle the problem"
+          description=" innovative methods for educating both youth and those who support them."
         />
       </div>
     </div>

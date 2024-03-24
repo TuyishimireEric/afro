@@ -31,7 +31,7 @@ function Navbar() {
     <div className="navbar-section">
       <h1 className="navbar-title">
         <Link to="/">
-          Afro-synegy <span className="navbar-sign"></span>
+          Afro-Synegy <span className="navbar-sign"></span>
         </Link>
       </h1>
 
@@ -59,7 +59,12 @@ function Navbar() {
         </li>
         <li>
           <a href="#doctors" className="navbar-links">
-            Doctors
+            Team
+          </a>
+        </li>
+        <li>
+          <a href="/Afro-Synergy/Challenge" className="navbar-links">
+            challenge
           </a>
         </li>
       </ul>
@@ -102,7 +107,12 @@ function Navbar() {
           </li>
           <li>
             <a onClick={openNav} href="#doctors">
-              Doctors
+              Team
+            </a>
+          </li>
+          <li>
+            <a onClick={openNav} href="Challenge">
+              Challenge
             </a>
           </li>
           <li>

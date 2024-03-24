@@ -1,52 +1,52 @@
 export const customerReviews = [
     {
-      "name": "Esther Howard",
-      "location": "Texas, USA",
-      "message": "Health Plus transformed my healthcare experience! The online consultations were so convenient, and the doctors were knowledgeable and caring."
+      "name": "Rutagengwa mac",
+      "location": "Rwanda, Kigali",
+      "message": "Afro-synergy completely transformed my approach to studying. With its innovative techniques and tailored programs, I not only improved my grades but also gained confidence in my abilities!"
     },
     {
-      "name": "John Doe",
-      "location": "California, USA",
-      "message": "I found the perfect specialist for my condition through Health Plus.  personalized treatment plan made all the difference. Thank you for prioritizing my health!"
+      "name": "Dennis Ntwali",
+      "location": "Rwanda, kigali",
+      "message": "As a young entrepreneur, Afro-synergy provided me with invaluable insights into business management and leadership. The mentorship programs helped me navigate challenges effectively, and the networking opportunities opened doors to collaborations I never thought possible.!"
     },
     {
-      "name": "Alice Smith",
-      "location": "New York, USA",
-      "message": "Booking appointments was  breeze, and the service exceeded my expectations. The doctors truly listen and provide effective solutions. 5 stars!"
+      "name": "boniface Ndayisaba",
+      "location": "Rwanda, kigali",
+      "message": "Discovering Afro-synergy was like finding a creative sanctuary. The workshops and resources inspired me to push the boundaries of my artistry. Through their support, I've grown as an artist and found my voice in expressing the richness of my culture.!"
     },
     {
-      "name": "Bob Johnson",
-      "location": "Florida, USA",
-      "message": "Health Plus is a game-changer! The emergency care saved me during a critical situation. Grateful for their quick and efficient support."
+      "name": "blair kayigamba",
+      "location": "Rwanda, kigali",
+      "message": "Afro-synergy empowered me to be an agent of change in my community. Their advocacy initiatives and grassroots campaigns fueled my passion for social justice. I've learned to channel my energy into meaningful action, creating tangible impact where it's needed most."
     },
     {
-      "name": "Jane Brown",
-      "location": "Washington, USA",
-      "message": "I used to dread dental visits, but Health Plus made it a pleasant experience. The dentist was gentle and professional. I'll definitely be back!"
+      "name": "Musabe Honore",
+      "location": "Rwanda, Kigali",
+      "message": "Training with Afro-synergy has been a game-changer for me. Their sports programs not only enhanced my skills but also emphasized the importance of holistic well-being. With their support, I've achieved personal bests and developed resilience both on and off the field."
     },
     {
-      "name": "Robert Wilson",
-      "location": "Texas, USA",
-      "message": "Finally, a healthcare platform that puts patients first! The heart disease service provided comprehensive care and regular follow-ups. Thank you, Health Plus!"
+      "name": "kalisa bill",
+      "location": "Rwanda, kigali",
+      "message": "Afro-synergy opened doors to a world of possibilities in the tech industry. Through their coding boot camps and mentorship, I gained the skills and confidence to pursue a career in software development. Now, I'm proud to be part of a community driving innovation and diversity in tech.!"
     },
     {
-      "name": "Mary Lee",
-      "location": "California, USA",
-      "message": "I've been using Health Plus for a variety of health concerns, and each time, I received exceptional care. It's my go-to for all medical needs!"
+      "name": "Ntaganira Michel",
+      "location": "Rwanda, Kigali",
+      "message": "Joining Afro-synergy sparked my passion for environmental advocacy. Their sustainability programs equipped me with the knowledge and tools to make a positive impact on the planet.!"
     },
     {
-      "name": "David Miller",
-      "location": "Texas, USA",
-      "message": "I highly recommend Health Plus for online consultations. It's convenient, secure, and the doctors are top-notch. Great job, team!"
+      "name": "Divine Uwera",
+      "location": "Rwanda, Kigali",
+      "message": "I highly recommend Afro-Synegy for online consultations. It's convenient, secure, and the team are top-notch. Great job, team!"
     },
     {
       "name": "Sarah Johnson",
-      "location": "Florida, USA",
-      "message": "The convenience of accessing medical notes online was fantastic. Health Plus made managing my health records hassle-free! Best Healthcare services."
+      "location": "Rwanda, kigali",
+      "message": "The convenience of accessing Mental health notes online was fantastic. Afro-Synegy made managing my Mental  health records hassle-free! Best Healthcare services."
     },
     {
-      "name": "Michael Brown",
-      "location": "New York, USA",
-      "message": "As a busy professional, Health Plus has been a lifesaver. Quick prescriptions and refills without compromising on quality care. Thank you!"
+      "name": "Uwase Ruth",
+      "location": "Rwanda, kigali",
+      "message": "As a busy professional, Afro-Synegy has been a lifesaver. Quick prescriptions and refills without compromising on quality care. Thank you!"
     }
 ];

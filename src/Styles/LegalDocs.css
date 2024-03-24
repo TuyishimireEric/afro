@@ -1,6 +1,9 @@
+.legal-section-title{
+    background-color: rgb(239,231,221);
+}
 .legal-text-content{
     padding: 12px 32px;
-    background: linear-gradient(to right, #ECF2FF, #FBFCFF);
+    background: rgb(239,231,221);
 }
 /* Title */
 .legal-siteTitle a {
