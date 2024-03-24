@@ -1,20 +1,14 @@
 import React from "react";
-import Doctor from "../Assets/doctor-book-appointment.png";
 import denis from "../Assets/Denis.jpeg"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCircleCheck,
-  faCalendarCheck,
+  
 } from "@fortawesome/free-solid-svg-icons";
-import { useNavigate  } from "react-router-dom";
 import "../Styles/BookAppointment.css";
 
 function BookAppointment() {
-  const navigate = useNavigate();
 
-  const handleBookAppointmentClick = () => {
-    navigate("/appointment");
-  };
 
   return (
     <div className="ba-section">

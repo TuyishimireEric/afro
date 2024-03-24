@@ -1,5 +1,4 @@
 import React from 'react'
-import challenge5 from '../Assets/challenge.png'
 import '../Styles/challenge.css'; 
 function card(props) {
   return (
