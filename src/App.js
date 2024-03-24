@@ -10,7 +10,7 @@ import Challenge from "./Pages/Challenge";
 function App() {
   return (
     <div className="App">
-      <Router basename="/Health-Plus">
+      <Router basename="/Afro-Synergy">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shallenge" element={<Challenge />} />
