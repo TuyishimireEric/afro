@@ -64,7 +64,7 @@ function Navbar() {
         </li>
         <li>
           <a href="/Afro-Synergy/Challenge" className="navbar-links">
-            challenge
+            Challenges
           </a>
         </li>
       </ul>
@@ -111,7 +111,7 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a onClick={openNav} href="Challenge">
+            <a onClick={openNav} href="/Afro-Synergy/Challenge">
               Challenge
             </a>
           </li>

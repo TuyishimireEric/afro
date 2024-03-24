@@ -11,7 +11,7 @@ function card(props) {
         <div className="card-content">
           <h3 className="card-title">{props.title}</h3>
           <p className="card-description">{props.desc}</p>
-          <a href={props.link} className="read-more-btn">Read More</a> 
+          <a href={props.link} target='blank' className="read-more-btn">Read More</a> 
         </div>
       </div>
     </div>

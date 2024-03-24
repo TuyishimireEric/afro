@@ -28,7 +28,7 @@ function Doctors() {
         <DoctorCard
           img={paula}
           name="Paula Glory"
-          title="General Surgeons"
+          title="marketing"
           stars="4.9"
           reviews="12"
         />
@@ -49,21 +49,21 @@ function Doctors() {
         <DoctorCard
           img={tracy}
           name="Tracy Brown"
-          title="Hematologists"
+          title="marketing"
           stars="4.8"
           reviews="5"
         />
           <DoctorCard
           img={mac}
           name="Mac Arthur Rutagengwa"
-          title="General Surgeons"
+          title="Logistic and planning"
           stars="4.9"
           reviews="18"
         />
           <DoctorCard
           img={lilala}
           name="Lilala Runiga Jemima"
-          title="General Surgeons"
+          title="operations"
           stars="4.9"
           reviews="18"
         />

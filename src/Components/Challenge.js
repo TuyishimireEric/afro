@@ -19,7 +19,7 @@ function Challenge() {
     title ="Challenge 1"
     desc ="
     Excitedly claiming 1075 points out of 1700, we confidently embarked on our ALU campus scavenger hunt challenge. With anticipation high, we commenced our e-lab journey with Quick Get to Know Me. Our quest fused exploration and collaboration, setting the stage for an electrifying journey ahead."
-    link =""
+    link ="https://www.instagram.com/reel/C3DlUjBtCx5/?utm_source=ig_web_copy_link"
     
     />
     <Card  
@@ -27,26 +27,26 @@ function Challenge() {
      title ="Challenge 2"
      desc ="
      With a commanding 1500 out of 1800 points, we embraced the challenge, wielding the power of storytelling. Quick Get to Know Me ignited our creative engines, honing our storytelling prowess. Through radical and critical thinking, fostering a dynamic blend of imagination and intellect in our journey."
-     link =""
+     link ="https://youtu.be/TsJg4J0_qIQ?si=2apDfKHG7U0A27Hy"
     />
     <Card  
      image = {Challenge3}
      title ="Challenge 3"
      desc ="
      Unexpected tasks challenge our teamwork, scoring 1900 out of 2000 points. Ready to excel, we embrace the unforeseen. Through synergy and adaptability, we navigate challenges, showcasing resilience and cohesion. Each obstacle surmounted strengthens our bond, driving us towards collective success in this dynamic journey."
-     link =""
+     link ="https://youtu.be/HHQPt2V5Ipg?si=rPQ0fKpQMZqeC2kt"
     />
     <Card  
      image = {Challenge4}
      title ="Challenge 4"
      desc ="Researching diligently, we scored 2455 out of 2500 points. In Challenge 4, we connected with Mr. Michael Tesfaye, CEO of Let's Reason and Bizco Tap, aligning with our G.C.G.O in health. Drawing from Canadian practices, he emphasized prioritizing mental health for African youth, urging consideration. His insights and practical demonstrations inspired further collaboration prospects."
-     link =""
+     link ="https://youtu.be/tklfOYYPpI8?si=xxGhv79EHqeSYHjM"
     />
     <Card  
      image = {challenge5}
      title ="Challenge 5"
      desc ="Scoring 1950 out of 2000 points, our community engagement endeavors prioritize enhancing well-being. Through research and collaboration, we strive to improve quality of life and foster connections within the community, embodying our commitment to uplifting collective welfare."
-     link =""
+     link ="https://youtu.be/fXRKdPeitas?si=SBpmy8fy0BRlQqeo"
     />
     </div>
     </>
