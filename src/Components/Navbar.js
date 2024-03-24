@@ -31,7 +31,7 @@ function Navbar() {
     <div className="navbar-section">
       <h1 className="navbar-title">
         <Link to="/">
-          Afro-Synegy <span className="navbar-sign"></span>
+          Afro-Synergy <span className="navbar-sign"></span>
         </Link>
       </h1>
 
